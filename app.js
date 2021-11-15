@@ -12,4 +12,4 @@ if (-10 < 0) {
 
 document.body.style.background ="deeppink";
 document.body.style.fontSize = "1.4rem";
-document.body.style.color = "aqua"
+document.body.style.color = "aqua";
